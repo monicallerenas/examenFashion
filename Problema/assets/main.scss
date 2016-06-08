@@ -1,0 +1,185 @@
+$cinco:5%;
+$diez:10%;
+$colorg:gray;
+$azul:#e6e6ff;
+$total:100%;
+$claro:white;
+header{
+	background-color: $azul;
+	width: $total;
+	height: 100px;
+}
+.p_menu{
+	margin-top: $cinco;
+}
+.btn{
+	background-color: $azul;
+	margin-top: $cinco;
+	margin-bottom: $diez;
+}
+.img_clock{
+	margin-top: $cinco;
+	display: inline-block;
+}
+.h_clock{
+	display: inline-block;
+	margin-bottom: $diez;
+	color: $colorg;
+}
+.p_clock{
+	display: inline-block;
+	position: absolute;
+	margin-top: 15%;
+	margin-left: -45%;
+	color: $colorg;
+}
+.input-group{
+	margin-top: $diez;
+}
+.menu2{
+	background-color: $azul;
+	width: $total;
+}
+.recuadro_slider{
+	border:solid 2px $claro;
+	width: 50%;
+	position: relative;
+	margin-top: -26%;
+	margin-left: 25%;
+	color:$claro;
+	text-align: center;
+	opacity: .8;
+}
+.ano{
+	margin-left: 42%;
+	color: $claro;
+}
+.img_banner{
+	margin-top: $cinco;
+}
+span{
+	color:black;
+}
+h3{
+	color: $colorg;
+	text-align: center;
+	margin-top: $cinco;
+}
+.cuadro_fotos{
+	border:solid 1px $colorg;
+	margin:1%;
+}
+.img_fotos{
+	padding: $cinco;
+	position:absolute;
+}
+.cuadro_rosa{
+	background-color: #ff4da6;
+	width: $diez;
+	text-align: center;
+	position: relative;
+	margin-top: $diez;
+	color: $claro;
+}
+.h_fotos{
+	margin-top: 80%;
+	text-align: center;
+	color:$colorg;
+}
+.icon_star{
+	color:$colorg;
+	text-align: center;
+}
+.cuadro_negro{
+	background-color: black;
+	width: $diez;
+	text-align: center;
+	position: relative;
+	margin-top: $diez;
+	color: $claro;
+}
+.img_v{
+	position: absolute;
+	margin-top: 2%;
+}
+.img_marcas{
+	position: relative;
+	margin-top: 50%;
+}
+.h_tres{
+	margin-top: $diez;
+}
+.cuadro_fotos1{
+	border:solid 1px $colorg;
+	height: 300px;
+	width: 110%;
+	margin-bottom: $diez;
+	}
+.cuadro_add{
+	background-color: black;
+	color:$claro;
+}
+.arriba{
+	margin-top: 20%;
+}
+.arriba_blog{
+	margin-top:10px;
+	margin-bottom: 20px;
+}
+.h_blog{
+	text-align: left;
+}
+.iconos_blog{
+	border:solid 2px $azul;
+	margin-top: $diez;
+	margin-bottom: $diez;
+}
+.promos{
+	font-size: 40px;
+	display: inline-block;
+	padding: $diez;
+}
+.h_iconos{
+	display: inline-block;
+	text-align: center;
+}
+.h_icon{
+	margin-left: 5%;
+}
+footer{
+	background-color: $azul;
+}
+.cuadro_white_iconos{
+	width: 15%;
+	height: 15%;
+	font-size: 20px;
+	margin-bottom: $cinco;
+	display: inline-block;
+	text-align: center;
+	background-color: $claro;
+}
+.icon_pie{
+	display: inline-block;
+}
+.flecha{
+	display: inline-block;
+}
+.flecha_i{
+	margin-left: $diez;
+	margin-top: -$diez;
+}
+.circulo{
+	margin-top: 4%;
+	border: $claro 5px solid;
+	border-radius: $total;
+	display: inline-block;
+}
+.p_circulo{
+	margin-left: 20%;
+	margin-top: -15%;
+}
+.h_pie{
+	margin-top: $diez;
+	margin-bottom: $diez;
+}
+
